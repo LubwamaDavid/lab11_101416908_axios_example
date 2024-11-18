@@ -4,7 +4,7 @@ import PersonList from './PersonList';
 function App() {
     return (
         <div className="App">
-            <h1 className="text-center mt-4">Random Users</h1>
+            <h1 className="text-center mt-4">User List</h1>
             <PersonList /> {}
         </div>
     );
